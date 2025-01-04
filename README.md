@@ -1,4 +1,4 @@
-# Fast Attention
+# Flash Attention
 
 Flash Attention paper: https://arxiv.org/abs/2205.14135. FLash attention is building on top of the online normalizer for softmax paper below. 
 
